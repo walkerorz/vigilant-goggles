@@ -1,0 +1,6 @@
+Flask
+Flask-WTF
+jinja2
+Flask-SQLAlchemy
+SQLAlchemy-migrate
+flask-mysqldb
