@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from flask.ext.wtf import Form
 from wtforms import StringField, BooleanField
 from wtforms.validators import DataRequired

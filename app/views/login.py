@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from flask import render_template, flash, redirect
 from app import app
 from app.models.Login import LoginForm
